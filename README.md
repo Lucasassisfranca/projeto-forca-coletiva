@@ -1,27 +1,5 @@
-<<<<<<< HEAD
-# 📌 Força Coletiva
-
-Este projeto consiste no desenvolvimento de um site criado com foco em organização, desempenho e boas práticas de desenvolvimento web.
-
-# Acesse: https://projeto-forca-coletiva.github.io/projeto-forca-coletiva/
-
-## 👨‍💻 Desenvolvimento
-
-- **Criador do site:** Lucas Assis Franca  
-- **GitHub:** https://github.com/Lucasassisfranca  
-
-## 👑 Propriedade do Projeto
-
-- **Dono do projeto:** Maxwel Sant’ana
-
-## 🛠️ Tecnologias Utilizadas
-
-- HTML  
-- CSS  
-- JavaScript  
-=======
 <p align="center">
-  <img src="images/banner.jpg" width="100%" alt="Banner Projeto Força Coletiva">
+  <img src="https://projeto-forca-coletiva.github.io/projeto-forca-coletiva/images/banner.jpg" width="100%" alt="Banner Projeto Força Coletiva">
 </p>
 
 <h1 align="center" style="color:#14286a;">
@@ -55,8 +33,7 @@ Este projeto busca transmitir **união, empatia e impacto social positivo** atra
 ## 🌐 Acesse o Site
 
 🔗 **Link oficial:**  
-https://projeto-forca-coletiva.github.io/projeto-forca-coletiva/
-
+https://lucasassisfranca.github.io/Projeto-Forca-Coletiva/
 ---
 
 ## 🏢 Organização
@@ -64,24 +41,6 @@ https://projeto-forca-coletiva.github.io/projeto-forca-coletiva/
 Este projeto também faz parte da organização oficial no GitHub:
 
 🔗 https://github.com/projeto-forca-coletiva
-
----
-
-## 🎨 Identidade Visual
-
-- Cor principal: `#14286a`
-- Estilo moderno e institucional
-- Layout responsivo
-- Estrutura organizada e escalável
-
----
-
-## 🚀 Tecnologias Utilizadas
-
-- HTML5
-- CSS3
-- Git & GitHub
-- GitHub Pages
 
 ---
 
@@ -96,4 +55,3 @@ Criar uma presença digital sólida para representar um projeto social compromet
     © 2026 Projeto Força Coletiva — Todos os direitos reservados.
   </strong>
 </p>
->>>>>>> ca6a35bc749ffadec81d8ca816299127a75e5098
